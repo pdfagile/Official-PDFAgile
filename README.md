@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="160" alt="PDF Agile Logo" />
+</p>
+
 PDF Agile — Fast, Powerful & Intelligent PDF Editor
 <p align="center"> <img src="logo.png" width="120" alt="PDF Agile Logo"/> </p> <p align="center"> <b>All-in-one PDF editor, converter, OCR engine, and document workflow solution.</b><br/> Edit PDFs like Word. Convert with high accuracy. Batch process. Secure. Fast. </p> <p align="center"> 👉 <a href="https://www.pdfagile.com" target="_blank"><b>Official Website</b></a> · <a href="#-features"><b>Features</b></a> · <a href="#-download"><b>Download</b></a> · <a href="https://github.com/xxx/PDFAgile/wiki"><b>Documentation</b></a> </p>
 ￼
